@@ -42,7 +42,3 @@ src/
 ├── components/      # Reactコンポーネント
 └── utils/          # ユーティリティ関数
 ```
-
-## ライセンス
-
-MIT
